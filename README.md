@@ -1,12 +1,9 @@
 # 24/7 Budget Buddy
 Track spending both on and offline to keep tabs on your cashflow.
 
-Deploy your application with Heroku and MongoDB Atlas.
+<img alt="Freshly loaded app." src="./public/images/home-page.PNG"/>
 
-## Submission on BCS
+<img alt="App when in offline mode." src="./public/images/Offline-mode.PNG"/>
 
-* You are required to submit the following:
+<img alt="Newly added transaction added." src="./public/images/back-online.PNG"/>
 
-  * the URL to the deployed application
-
-  * the URL to the Github repository
