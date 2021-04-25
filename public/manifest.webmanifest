@@ -1,6 +1,6 @@
 {
-    "name": "24/7 Budget Buddy",
-    "short_name": "Budget Buddy",
+  "name": "24/7 Budget Buddy",
+  "short_name": "Budget Buddy",
     "icons": [
       {
         "src": "icons/icon-192x192.png",
