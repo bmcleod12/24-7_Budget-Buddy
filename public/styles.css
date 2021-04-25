@@ -1,6 +1,7 @@
 body {
   font-size: 120%;
   font-family: Arial;
+  background-color: rgb(221, 244, 250);
 }
 
 button, input {
@@ -13,13 +14,16 @@ table {
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 1px solid #538cd6;
   text-align: left;
   padding: 8px;
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: #9ad2e7;
+}
+tr:nth-child(odd) {
+  background-color: #95ddd3;
 }
 
 .error {
